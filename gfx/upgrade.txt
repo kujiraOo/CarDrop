@@ -1,0 +1,37 @@
+star4.png, 0, 0, 12, 10, 0, 0, 0, 0
+star3.png, 0, 10, 12, 11, 0, 0, 0, 0
+star2.png, 0, 21, 9, 9, 0, 0, 0, 0
+star1.png, 0, 30, 10, 8, 0, 0, 0, 0
+wheels/snail.png, 0, 38, 29, 24, 0, 0, 0, 0
+wheels/seastar.png, 12, 0, 21, 21, 0, 0, 0, 0
+wheels/purplestar.png, 0, 62, 21, 21, 0, 0, 0, 0
+wheels/pop.png, 0, 83, 27, 27, 0, 0, 0, 0
+wheels/pizza wheel.png, 0, 110, 28, 28, 0, 0, 0, 0
+wheels/banana.png, 21, 62, 33, 21, 0, 0, 0, 0
+spoiler/turbo_fire.png, 10, 21, 36, 11, 0, 0, 0, 0
+spoiler/turbo.png, 33, 0, 16, 12, 0, 0, 0, 0
+spoiler/spoiler.png, 27, 83, 15, 11, 0, 0, 0, 0
+spoiler/snake.png, 46, 12, 38, 33, 0, 0, 0, 0
+other/wings.png, 27, 94, 32, 13, 0, 0, 0, 0
+other/usiki.png, 54, 45, 73, 45, 0, 0, 0, 0
+other/stupidglasses.png, 49, 0, 35, 12, 0, 0, 0, 0
+other/octopus2.png, 0, 138, 91, 70, 0, 0, 0, 0
+other/octopus1.png, 91, 90, 91, 70, 0, 0, 0, 0
+other/lion.png, 84, 0, 91, 40, 0, 0, 0, 0
+other/heartglasses.png, 28, 107, 48, 18, 0, 0, 0, 0
+other/garden.png, 0, 208, 70, 40, 0, 0, 0, 0
+other/funnygirl_hand.png, 76, 90, 13, 11, 0, 0, 0, 0
+other/funnygirl.png, 70, 208, 37, 28, 0, 0, 0, 0
+other/flasher2.png, 42, 83, 9, 11, 0, 0, 0, 0
+other/flasher1.png, 28, 125, 9, 11, 0, 0, 0, 0
+other/doshirak_wheel.png, 91, 160, 24, 25, 0, 0, 0, 0
+other/doshirak_head.png, 29, 45, 25, 16, 0, 0, 0, 0
+other/doshirak_cloud.png, 76, 101, 15, 14, 0, 0, 0, 0
+other/doshirak.png, 115, 160, 111, 93, 0, 0, 0, 0
+other/crab.png, 175, 0, 60, 54, 0, 0, 0, 0
+other/cowboy hat.png, 127, 54, 56, 30, 0, 0, 0, 0
+other/chiсken.png, 182, 84, 26, 29, 0, 0, 0, 0
+other/casino_wheel.png, 127, 40, 14, 14, 0, 0, 0, 0
+other/casino_light.png, 208, 54, 124, 68, 0, 0, 0, 0
+other/casino.png, 332, 0, 120, 158, 0, 0, 0, 0
+other/bagaj.png, 235, 0, 37, 40, 0, 0, 0, 0

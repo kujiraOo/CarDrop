@@ -1,0 +1,40 @@
+weird sign.png, 1, 1, 58, 183, 0, 0, 0, 0
+viola.png, 1, 186, 47, 72, 0, 0, 0, 0
+tiny cake.png, 1, 260, 25, 27, 0, 0, 0, 0
+tasty pilled banana.png, 1, 289, 77, 64, 0, 0, 0, 0
+tasty banana.png, 50, 186, 106, 51, 0, 0, 0, 0
+strange sign.png, 61, 1, 57, 183, 0, 0, 0, 0
+sand snail.png, 120, 1, 114, 64, 0, 0, 0, 0
+pilled banana.png, 120, 67, 77, 64, 0, 0, 0, 0
+orange donut.png, 1, 355, 98, 101, 0, 0, 0, 0
+mint poop.png, 50, 239, 48, 48, 0, 0, 0, 0
+Mexican.png, 100, 239, 47, 72, 0, 0, 0, 0
+light_neon snail.png, 1, 458, 88, 59, 0, 0, 0, 0
+golden radish.png, 1, 519, 117, 143, 0, 0, 0, 0
+emerald radish.png, 101, 313, 116, 142, 0, 0, 0, 0
+cute ice-cream.png, 149, 239, 39, 72, 0, 0, 0, 0
+croissant.png, 120, 133, 35, 29, 0, 0, 0, 0
+circular_ufo.png, 158, 133, 79, 85, 0, 0, 0, 0
+chocolate cake.png, 190, 220, 38, 65, 0, 0, 0, 0
+cheerful buddhaboy.png, 1, 664, 96, 145, 0, 0, 0, 0
+chair.png, 236, 1, 39, 80, 0, 0, 0, 0
+cake.png, 1, 811, 34, 65, 0, 0, 0, 0
+bicycle lady.png, 1, 878, 117, 136, 0, 0, 0, 0
+bicycle gentleman.png, 99, 664, 98, 116, 0, 0, 0, 0
+bicycle alen.png, 120, 457, 98, 119, 0, 0, 0, 0
+banana.png, 37, 811, 105, 50, 0, 0, 0, 0
+banana donut.png, 120, 863, 98, 100, 0, 0, 0, 0
+alien poop.png, 199, 83, 48, 48, 0, 0, 0, 0
+|big_wizzard cat.png, 199, 578, 227, 231, 0, 0, 0, 0
+|big_trailer.png, 220, 811, 231, 209, 0, 0, 0, 0
+|big_seagull.png, 220, 287, 192, 280, 0, 0, 0, 0
+|big_rainbow.png, 414, 1, 250, 312, 0, 0, 0, 0
+|big_magical cat.png, 414, 315, 224, 243, 0, 0, 0, 0
+|big_lovely house.png, 453, 560, 338, 307, 0, 0, 0, 0
+|big_light_poles.png, 640, 315, 434, 179, 0, 0, 0, 0
+|big_hippy wagon.png, 239, 133, 164, 104, 0, 0, 0, 0
+|big_handsome turkey.png, 666, 1, 192, 204, 0, 0, 0, 0
+|big_gymnastics addict.png, 860, 1, 317, 183, 0, 0, 0, 0
+|big_blue hills.png, 793, 496, 264, 176, 0, 0, 0, 0
+|big_beautiful turkey.png, 793, 674, 192, 197, 0, 0, 0, 0
+|big_aerobics addict.png, 987, 674, 132, 321, 0, 0, 0, 0

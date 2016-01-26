@@ -1,0 +1,41 @@
+wigwam.png, 1, 1, 65, 92, 0, 0, 0, 0
+watermelon.png, 1, 95, 48, 41, 0, 0, 0, 0
+touristosaur.png, 1, 138, 115, 87, 0, 0, 0, 0
+swiss knife.png, 51, 95, 42, 29, 0, 0, 0, 0
+strawberry ice cream.png, 68, 1, 21, 49, 0, 0, 0, 0
+sofa.png, 91, 1, 93, 55, 0, 0, 0, 0
+refrigerator.png, 95, 58, 73, 67, 0, 0, 0, 0
+pulverizer.png, 1, 227, 51, 54, 0, 0, 0, 0
+pistachio ice cream.png, 1, 283, 22, 49, 0, 0, 0, 0
+people.png, 1, 334, 132, 80, 0, 0, 0, 0
+pan.png, 25, 283, 43, 18, 0, 0, 0, 0
+mixer.png, 54, 227, 13, 54, 0, 0, 0, 0
+mint ice cream.png, 69, 227, 21, 50, 0, 0, 0, 0
+milk.png, 92, 227, 64, 64, 0, 0, 0, 0
+milk?.png, 118, 127, 64, 64, 0, 0, 0, 0
+lovely wigwam.png, 1, 416, 64, 95, 0, 0, 0, 0
+light_smartphone.png, 68, 52, 21, 15, 0, 0, 0, 0
+light_rock festival.png, 1, 513, 237, 180, 0, 0, 0, 0
+kittens.png, 170, 58, 118, 50, 0, 0, 0, 0
+green apple.png, 70, 293, 30, 35, 0, 0, 0, 0
+glass.png, 102, 293, 28, 39, 0, 0, 0, 0
+glass of juice.png, 186, 1, 26, 51, 0, 0, 0, 0
+floating_owl.png, 132, 293, 50, 39, 0, 0, 0, 0
+floating_kite.png, 214, 1, 150, 46, 0, 0, 0, 0
+fire_campfire_b.png, 67, 416, 26, 65, 0, 0, 0, 0
+fire_campfire_a|1011077.png, 95, 416, 26, 65, 0, 0, 0, 0
+dog.png, 25, 303, 35, 29, 0, 0, 0, 0
+cool buddhaboy.png, 158, 193, 64, 97, 0, 0, 0, 0
+coke.png, 184, 110, 28, 76, 0, 0, 0, 0
+cherry coke.png, 214, 110, 27, 73, 0, 0, 0, 0
+canned soup.png, 67, 483, 18, 28, 0, 0, 0, 0
+bureaucrat.png, 123, 416, 50, 65, 0, 0, 0, 0
+boy.png, 135, 334, 42, 67, 0, 0, 0, 0
+|big_tent.png, 175, 403, 198, 102, 0, 0, 0, 0
+|big_nature tent.png, 184, 292, 198, 100, 0, 0, 0, 0
+|big_happy bath.png, 243, 110, 75, 137, 0, 0, 0, 0
+|big_gigantic slim legs.png, 1, 695, 299, 301, 0, 0, 0, 0
+|big_gigantic fat legs.png, 302, 507, 292, 324, 0, 0, 0, 0
+|big_dragon.png, 302, 833, 155, 127, 0, 0, 0, 0
+|big_bathing enthusiast.png, 375, 394, 127, 85, 0, 0, 0, 0
+|big_aquarium.png, 459, 833, 107, 107, 0, 0, 0, 0

@@ -1,0 +1,33 @@
+young spruce forest_1.png, 1, 1, 49, 115, 0, 0, 0, 0
+Xmas forest_1.png, 1, 118, 44, 122, 0, 0, 0, 0
+tropical palm forest_2.png, 1, 242, 126, 196, 0, 0, 0, 0
+tropical palm forest_1.png, 52, 1, 126, 196, 0, 0, 0, 0
+sunflowers_1.png, 1, 440, 77, 68, 0, 0, 0, 0
+spruce forest_1.png, 129, 199, 68, 147, 0, 0, 0, 0
+small cactus_2.png, 47, 199, 27, 33, 0, 0, 0, 0
+small cactus_1.png, 80, 440, 46, 46, 0, 0, 0, 0
+plum forest_1.png, 129, 348, 56, 105, 0, 0, 0, 0
+pastel forest_1.png, 187, 348, 51, 110, 0, 0, 0, 0
+palm forest_2.png, 180, 1, 92, 167, 0, 0, 0, 0
+palm forest_1.png, 240, 170, 126, 196, 0, 0, 0, 0
+LA cactus_1.png, 240, 368, 48, 110, 0, 0, 0, 0
+juniper forest_3.png, 199, 170, 22, 61, 0, 0, 0, 0
+juniper forest_2.png, 199, 233, 37, 65, 0, 0, 0, 0
+juniper forest_1.png, 128, 455, 22, 54, 0, 0, 0, 0
+horror forest_1.png, 274, 1, 95, 147, 0, 0, 0, 0
+crab forest_1.png, 290, 368, 56, 105, 0, 0, 0, 0
+cloud forest_3.png, 368, 150, 91, 171, 0, 0, 0, 0
+cloud forest_2.png, 368, 323, 92, 168, 0, 0, 0, 0
+cloud forest_1.png, 371, 1, 90, 140, 0, 0, 0, 0
+cactus forest_1.png, 461, 143, 48, 87, 0, 0, 0, 0
+bush_3.png, 461, 232, 56, 86, 0, 0, 0, 0
+bush_2.png, 463, 1, 56, 88, 0, 0, 0, 0
+bush_1.png, 511, 91, 57, 86, 0, 0, 0, 0
+blooming forest_4.png, 462, 320, 55, 99, 0, 0, 0, 0
+blooming forest_3.png, 519, 179, 55, 99, 0, 0, 0, 0
+blooming forest_2.png, 570, 1, 55, 97, 0, 0, 0, 0
+blooming forest_1.png, 519, 280, 54, 98, 0, 0, 0, 0
+beet_1.png, 462, 421, 81, 80, 0, 0, 0, 0
+apple forest_3.png, 575, 280, 99, 152, 0, 0, 0, 0
+apple forest_2.png, 576, 100, 96, 150, 0, 0, 0, 0
+apple forest_1.png, 674, 1, 96, 147, 0, 0, 0, 0

@@ -1,0 +1,53 @@
+yellow flowers.png, 1, 1, 68, 75, 0, 0, 0, 0
+umbrella.png, 1, 78, 76, 91, 0, 0, 0, 0
+tyrannosaurus.png, 1, 171, 174, 134, 0, 0, 0, 0
+tv series addict.png, 71, 1, 113, 70, 0, 0, 0, 0
+tower.png, 1, 307, 74, 399, 0, 0, 0, 0
+surfer.png, 1, 708, 74, 108, 0, 0, 0, 0
+sunflower house.png, 1, 818, 152, 359, 0, 0, 0, 0
+strawberry kitten.png, 79, 73, 77, 71, 0, 0, 0, 0
+snowman with snow.png, 77, 307, 75, 116, 0, 0, 0, 0
+snowman.png, 77, 425, 52, 106, 0, 0, 0, 0
+skinhead.png, 77, 533, 50, 110, 0, 0, 0, 0
+radish.png, 77, 645, 118, 142, 0, 0, 0, 0
+puppy.png, 158, 73, 104, 67, 0, 0, 0, 0
+punk.png, 131, 425, 47, 119, 0, 0, 0, 0
+moonboy.png, 129, 546, 66, 80, 0, 0, 0, 0
+manga.png, 177, 142, 182, 173, 0, 0, 0, 0
+liquor ice cream.png, 186, 1, 39, 66, 0, 0, 0, 0
+light_handheld.png, 227, 1, 35, 28, 0, 0, 0, 0
+kitten.png, 154, 317, 77, 69, 0, 0, 0, 0
+just umbrella.png, 264, 1, 75, 90, 0, 0, 0, 0
+Hayes.png, 180, 388, 81, 149, 0, 0, 0, 0
+hamburger.png, 264, 93, 55, 37, 0, 0, 0, 0
+green house.png, 1, 1179, 148, 365, 0, 0, 0, 0
+grape ice cream.png, 341, 1, 31, 79, 0, 0, 0, 0
+fruit ice cream.png, 233, 317, 42, 68, 0, 0, 0, 0
+floating_heart balloon.png, 1, 1546, 92, 101, 0, 0, 0, 0
+floating_balloons.png, 1, 1649, 95, 136, 0, 0, 0, 0
+floating_balloon.png, 98, 1546, 221, 341, 0, 0, 0, 0
+Elvis White.png, 1, 1889, 70, 142, 0, 0, 0, 0
+doruma.png, 1, 1787, 74, 92, 0, 0, 0, 0
+circular_bananacat ufo.png, 73, 1889, 118, 64, 0, 0, 0, 0
+cat.png, 341, 82, 67, 50, 0, 0, 0, 0
+buddhaboy.png, 193, 1889, 96, 145, 0, 0, 0, 0
+alpaca.png, 151, 1179, 112, 186, 0, 0, 0, 0
+|big_white horse.png, 155, 789, 257, 179, 0, 0, 0, 0
+|big_whale.png, 263, 387, 527, 324, 0, 0, 0, 0
+|big_truck with plants.png, 291, 1889, 223, 119, 0, 0, 0, 0
+|big_truck with corn.png, 151, 1367, 223, 131, 0, 0, 0, 0
+|big_smart school bus.png, 155, 970, 237, 120, 0, 0, 0, 0
+|big_shop.png, 410, 1, 396, 310, 0, 0, 0, 0
+|big_rainbow horse.png, 265, 1092, 252, 182, 0, 0, 0, 0
+|big_orange horse.png, 414, 713, 247, 170, 0, 0, 0, 0
+|big_Martian horse.png, 414, 885, 253, 174, 0, 0, 0, 0
+|big_Isaac.png, 321, 1500, 130, 233, 0, 0, 0, 0
+|big_houses.png, 453, 1276, 471, 368, 0, 0, 0, 0
+|big_hamburger bar.png, 516, 1646, 402, 324, 0, 0, 0, 0
+|big_gas station.png, 519, 1061, 299, 198, 0, 0, 0, 0
+|big_drummer.png, 669, 713, 238, 233, 0, 0, 0, 0
+|big_diplodocus.png, 820, 948, 227, 182, 0, 0, 0, 0
+|big_cute school bus.png, 820, 1132, 237, 129, 0, 0, 0, 0
+|big_city block.png, 808, 1, 624, 484, 0, 0, 0, 0
+|big_church.png, 920, 1646, 353, 321, 0, 0, 0, 0
+|big_catch the wave.png, 792, 487, 152, 200, 0, 0, 0, 0

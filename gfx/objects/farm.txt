@@ -1,0 +1,36 @@
+white rabbit.png, 1, 1, 54, 45, 0, 0, 0, 0
+tractor.png, 57, 1, 207, 189, 0, 0, 0, 0
+tomatoes.png, 266, 1, 76, 104, 0, 0, 0, 0
+sunflower.png, 1, 48, 43, 66, 0, 0, 0, 0
+sunboy.png, 344, 1, 61, 53, 0, 0, 0, 0
+rabbits.png, 1, 116, 41, 58, 0, 0, 0, 0
+rabbit.png, 1, 176, 54, 47, 0, 0, 0, 0
+plant.png, 407, 1, 54, 76, 0, 0, 0, 0
+pillows.png, 344, 56, 39, 33, 0, 0, 0, 0
+pig.png, 463, 1, 170, 130, 0, 0, 0, 0
+pig stole hat.png, 266, 107, 170, 130, 0, 0, 0, 0
+nettle.png, 57, 192, 66, 101, 0, 0, 0, 0
+loveletter.png, 125, 192, 102, 107, 0, 0, 0, 0
+grape.png, 1, 295, 80, 56, 0, 0, 0, 0
+funny orange.png, 1, 225, 44, 40, 0, 0, 0, 0
+fly-agaric.png, 385, 56, 14, 16, 0, 0, 0, 0
+floating_balloon.png, 635, 1, 147, 227, 0, 0, 0, 0
+fence.png, 438, 133, 117, 65, 0, 0, 0, 0
+exotic grape.png, 438, 200, 80, 55, 0, 0, 0, 0
+exotic flower.png, 229, 239, 131, 186, 0, 0, 0, 0
+daisy.png, 362, 239, 46, 47, 0, 0, 0, 0
+cucumber.png, 520, 200, 103, 94, 0, 0, 0, 0
+cow.png, 1, 353, 186, 155, 0, 0, 0, 0
+circular_ufo.png, 557, 133, 53, 55, 0, 0, 0, 0
+calf.png, 410, 257, 102, 81, 0, 0, 0, 0
+bush.png, 83, 301, 68, 43, 0, 0, 0, 0
+bucket.png, 189, 301, 31, 52, 0, 0, 0, 0
+boombox.png, 784, 1, 53, 36, 0, 0, 0, 0
+acid flower.png, 784, 39, 47, 72, 0, 0, 0, 0
+|big_wheel_windmill_b.png, 189, 355, 31, 134, 0, 0, 0, 0
+|big_wheel_windmill_a|110.png, 922, 1, 98, 98, 0, 0, 0, 0
+|big_romantic hills.png, 514, 296, 429, 243, 0, 0, 0, 0
+|big_ping-pong table.png, 362, 340, 143, 88, 0, 0, 0, 0
+|big_haystacks.png, 784, 113, 199, 104, 0, 0, 0, 0
+|big_farmer.png, 222, 427, 133, 97, 0, 0, 0, 0
+|big_country house.png, 1, 526, 335, 228, 0, 0, 0, 0

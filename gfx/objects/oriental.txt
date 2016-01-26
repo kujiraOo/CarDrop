@@ -1,0 +1,28 @@
+yellow stones.png, 1, 1, 32, 32, 0, 0, 0, 0
+tuxedosaur.png, 35, 1, 113, 87, 0, 0, 0, 0
+trendy panda.png, 150, 1, 105, 63, 0, 0, 0, 0
+table.png, 257, 1, 46, 44, 0, 0, 0, 0
+roaring lion.png, 305, 1, 122, 101, 0, 0, 0, 0
+red radish.png, 150, 66, 78, 96, 0, 0, 0, 0
+princess's umbrella.png, 230, 66, 50, 60, 0, 0, 0, 0
+peacock.png, 1, 90, 58, 49, 0, 0, 0, 0
+panda.png, 1, 141, 104, 65, 0, 0, 0, 0
+mint umbrella.png, 429, 1, 51, 61, 0, 0, 0, 0
+lion.png, 482, 1, 108, 99, 0, 0, 0, 0
+hippy wagon.png, 592, 1, 107, 56, 0, 0, 0, 0
+flower Buddha.png, 701, 1, 128, 128, 0, 0, 0, 0
+fire_fire Buddha_b.png, 592, 59, 77, 113, 0, 0, 0, 0
+fire_fire Buddha_a|0011055.png, 429, 102, 77, 113, 0, 0, 0, 0
+fire_blue fire_b.png, 671, 59, 26, 62, 0, 0, 0, 0
+fire_blue fire_a|1110770.png, 671, 123, 26, 62, 0, 0, 0, 0
+doner.png, 508, 102, 76, 79, 0, 0, 0, 0
+blue stones.png, 1, 35, 32, 32, 0, 0, 0, 0
+|big_wise monkey.png, 282, 104, 130, 162, 0, 0, 0, 0
+|big_whale.png, 508, 187, 447, 147, 0, 0, 0, 0
+|big_tanned giraffe.png, 831, 1, 133, 158, 0, 0, 0, 0
+|big_smart monkey.png, 107, 164, 122, 162, 0, 0, 0, 0
+|big_oriental dancer's sister.png, 1, 208, 103, 170, 0, 0, 0, 0
+|big_oriental dancer.png, 231, 268, 103, 170, 0, 0, 0, 0
+|big_mango tree.png, 414, 217, 80, 167, 0, 0, 0, 0
+|big_light_Taj Mahal.png, 336, 386, 530, 253, 0, 0, 0, 0
+|big_giraffe.png, 868, 336, 136, 158, 0, 0, 0, 0

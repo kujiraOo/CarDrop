@@ -1,0 +1,159 @@
+<project>
+ <properties autorotation="0" encryptAssets="0" fps="30" scaleMode="3" mouseToTouch="1" iosDevice="0" packageName="com.bananacat.cardrop" logicalHeight="480" logicalWidth="320" mouseTouchOrder="0" encryptCode="0" retinaDisplay="0" touchToMouse="1" assetsOnly="1" orientation="1" architecture="1">
+  <imageScales>
+   <scale suffix="@2" scale="2"/>
+   <scale suffix="@1.5" scale="1.5"/>
+  </imageScales>
+ </properties>
+ <folder name="gfx">
+  <folder name="font">
+   <file source="gfx/font/asap10.png"/>
+   <file source="gfx/font/asap10.txt"/>
+   <file source="gfx/font/asap8.txt"/>
+   <file source="gfx/font/asap8.png"/>
+   <file source="gfx/font/asap.png"/>
+   <file source="gfx/font/asap.txt"/>
+   <file source="gfx/font/asap@1.5.png"/>
+   <file source="gfx/font/asap@1.5.txt"/>
+   <file source="gfx/font/asap@2.png"/>
+   <file source="gfx/font/asap@2.txt"/>
+  </folder>
+  <folder name="objects">
+   <file source="gfx/objects/camping.png"/>
+   <file source="gfx/objects/camping.txt"/>
+   <file source="gfx/objects/camping@1.5.png"/>
+   <file source="gfx/objects/camping@1.5.txt"/>
+   <file source="gfx/objects/camping@2.png"/>
+   <file source="gfx/objects/camping@2.txt"/>
+   <file source="gfx/objects/city.png"/>
+   <file source="gfx/objects/city.txt"/>
+   <file source="gfx/objects/city@1.5.png"/>
+   <file source="gfx/objects/city@1.5.txt"/>
+   <file source="gfx/objects/city@2.png"/>
+   <file source="gfx/objects/city@2.txt"/>
+   <file source="gfx/objects/farm.png"/>
+   <file source="gfx/objects/farm.txt"/>
+   <file source="gfx/objects/farm@1.5.png"/>
+   <file source="gfx/objects/farm@1.5.txt"/>
+   <file source="gfx/objects/farm@2.png"/>
+   <file source="gfx/objects/farm@2.txt"/>
+   <file source="gfx/objects/horror.png"/>
+   <file source="gfx/objects/horror.txt"/>
+   <file source="gfx/objects/horror@1.5.png"/>
+   <file source="gfx/objects/horror@1.5.txt"/>
+   <file source="gfx/objects/horror@2.png"/>
+   <file source="gfx/objects/horror@2.txt"/>
+   <file source="gfx/objects/oriental.png"/>
+   <file source="gfx/objects/oriental.txt"/>
+   <file source="gfx/objects/oriental@1.5.png"/>
+   <file source="gfx/objects/oriental@1.5.txt"/>
+   <file source="gfx/objects/oriental@2.png"/>
+   <file source="gfx/objects/oriental@2.txt"/>
+   <file source="gfx/objects/trees.png"/>
+   <file source="gfx/objects/trees.txt"/>
+   <file source="gfx/objects/trees@1.5.png"/>
+   <file source="gfx/objects/trees@1.5.txt"/>
+   <file source="gfx/objects/trees@2.png"/>
+   <file source="gfx/objects/trees@2.txt"/>
+   <file source="gfx/objects/weird.png"/>
+   <file source="gfx/objects/weird.txt"/>
+   <file source="gfx/objects/weird@1.5.png"/>
+   <file source="gfx/objects/weird@1.5.txt"/>
+   <file source="gfx/objects/weird@2.png"/>
+   <file source="gfx/objects/weird@2.txt"/>
+  </folder>
+  <file source="gfx/loading.png"/>
+  <file source="gfx/loading@1.5.png"/>
+  <file source="gfx/loading@2.png"/>
+  <file source="gfx/main.png"/>
+  <file source="gfx/main.txt"/>
+  <file source="gfx/main@1.5.png"/>
+  <file source="gfx/main@1.5.txt"/>
+  <file source="gfx/main@2.png"/>
+  <file source="gfx/main@2.txt"/>
+  <file source="gfx/startup.png"/>
+  <file source="gfx/startup.txt"/>
+  <file source="gfx/startup@1.5.png"/>
+  <file source="gfx/startup@1.5.txt"/>
+  <file source="gfx/startup@2.png"/>
+  <file source="gfx/startup@2.txt"/>
+  <file source="gfx/taxi.png"/>
+  <file source="gfx/taxi.txt"/>
+  <file source="gfx/taxi@1.5.png"/>
+  <file source="gfx/taxi@1.5.txt"/>
+  <file source="gfx/taxi@2.png"/>
+  <file source="gfx/taxi@2.txt"/>
+  <file source="gfx/upgrade.png"/>
+  <file source="gfx/upgrade.txt"/>
+  <file source="gfx/upgrade@1.5.png"/>
+  <file source="gfx/upgrade@1.5.txt"/>
+  <file source="gfx/upgrade@2.png"/>
+  <file source="gfx/upgrade@2.txt"/>
+ </folder>
+ <folder name="scripts">
+  <folder name="audio">
+   <file source="scripts/audio/Music.lua"/>
+   <file source="scripts/audio/Sfx.lua"/>
+  </folder>
+  <folder name="libs">
+   <file source="scripts/libs/Animations.lua"/>
+   <file source="scripts/libs/Distancer_rnd.lua"/>
+   <file source="scripts/libs/EnterFrameTimer.lua"/>
+   <file source="scripts/libs/General.lua"/>
+   <file source="scripts/libs/Timer_rnd.lua"/>
+  </folder>
+  <folder name="objects">
+   <file source="scripts/objects/Circular.lua"/>
+   <file source="scripts/objects/Object.lua"/>
+   <file source="scripts/objects/Objects_description.lua"/>
+   <file source="scripts/objects/Objects_init.lua"/>
+   <file source="scripts/objects/Objects_spawn.lua"/>
+   <file source="scripts/objects/Objects_special.lua"/>
+   <file source="scripts/objects/Trees.lua"/>
+   <file source="scripts/objects/Zone.lua"/>
+  </folder>
+  <folder name="taxi">
+   <file source="scripts/taxi/Passanger.lua"/>
+   <file source="TaxiObject.lua"/>
+  </folder>
+  <folder name="upgrades">
+   <file source="scripts/upgrades/Upgrade_data.lua"/>
+   <file source="scripts/upgrades/Upgrade.lua"/>
+   <file source="scripts/upgrades/Upgrade_animation.lua"/>
+  </folder>
+  <file source="scripts/Background.lua"/>
+  <file source="scripts/Car.lua"/>
+  <file source="scripts/Clouds.lua"/>
+  <file source="scripts/GUI.lua"/>
+  <file source="scripts/Game.lua"/>
+  <file source="scripts/Logo.lua"/>
+  <file source="scripts/Road.lua"/>
+  <file source="scripts/Stars.lua"/>
+  <file source="scripts/Start_screen.lua"/>
+  <file source="scripts/Sun.lua"/>
+ </folder>
+ <folder name="sound">
+  <folder name="fanfare">
+   <file source="sound/fanfare/c#.wav"/>
+   <file source="sound/fanfare/c.wav"/>
+  </folder>
+  <folder name="rain">
+   <file source="sound/rain/c#.wav"/>
+   <file source="sound/rain/c.wav"/>
+  </folder>
+  <folder name="ufo">
+   <file source="sound/ufo/c.wav"/>
+   <file source="sound/ufo/c#.wav"/>
+  </folder>
+  <file source="sound/car.wav"/>
+  <file source="sound/track1.mp3"/>
+  <file source="sound/track2.mp3"/>
+  <file source="sound/track3.mp3"/>
+  <file source="sound/track4.mp3"/>
+  <file source="sound/track5.mp3"/>
+ </folder>
+ <file source="init.lua"/>
+ <file source="main.lua"/>
+ <dependency from="scripts/objects/Circular.lua" to="scripts/objects/Object.lua"/>
+ <dependency from="scripts/objects/Objects_description.lua" to="scripts/objects/Objects_init.lua"/>
+</project>

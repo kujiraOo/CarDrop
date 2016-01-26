@@ -1,0 +1,61 @@
+zombie hunter.png, 1, 1, 87, 122, 0, 0, 0, 0
+witch.png, 1, 125, 32, 99, 0, 0, 0, 0
+werewolf.png, 1, 226, 129, 141, 0, 0, 0, 0
+table.png, 35, 125, 46, 45, 0, 0, 0, 0
+sofa.png, 83, 125, 93, 57, 0, 0, 0, 0
+snail.png, 90, 1, 53, 43, 0, 0, 0, 0
+sleeping Dracula.png, 90, 46, 35, 70, 0, 0, 0, 0
+saxophone.png, 35, 172, 26, 47, 0, 0, 0, 0
+rainbow Mike.png, 145, 1, 76, 102, 0, 0, 0, 0
+pumpkinman.png, 1, 369, 42, 79, 0, 0, 0, 0
+pumpkin.png, 63, 184, 32, 25, 0, 0, 0, 0
+princess.png, 1, 450, 73, 79, 0, 0, 0, 0
+poisonous mushroom.png, 127, 105, 11, 14, 0, 0, 0, 0
+poisonous apple.png, 97, 184, 29, 39, 0, 0, 0, 0
+lightning demonic guitar.png, 1, 531, 58, 96, 0, 0, 0, 0
+light_grebe.png, 140, 105, 10, 14, 0, 0, 0, 0
+light_blue mushroom.png, 63, 172, 8, 9, 0, 0, 0, 0
+ice mummy.png, 1, 629, 56, 84, 0, 0, 0, 0
+hippy wagon.png, 45, 369, 109, 62, 0, 0, 0, 0
+high boots.png, 132, 184, 46, 65, 0, 0, 0, 0
+Frankenstein's wife.png, 132, 251, 59, 86, 0, 0, 0, 0
+fork.png, 127, 46, 11, 38, 0, 0, 0, 0
+floating_office witch.png, 180, 105, 83, 82, 0, 0, 0, 0
+floating_mysterious  balloon.png, 1, 715, 147, 227, 0, 0, 0, 0
+floating_housewife witch.png, 61, 531, 118, 106, 0, 0, 0, 0
+floating_ghoust.png, 223, 1, 63, 98, 0, 0, 0, 0
+floating_fairy.png, 180, 189, 36, 56, 0, 0, 0, 0
+fire_fire of death_b.png, 76, 433, 58, 96, 0, 0, 0, 0
+fire_fire of death_a|1101707.png, 136, 433, 58, 96, 0, 0, 0, 0
+fire_fire demonic guitar_b.png, 193, 247, 42, 109, 0, 0, 0, 0
+fire_fire demonic guitar_a|0090011.png, 150, 639, 62, 96, 0, 0, 0, 0
+fire_big campfire_b.png, 181, 531, 47, 83, 0, 0, 0, 0
+fire_big campfire_a|1011077.png, 196, 358, 47, 83, 0, 0, 0, 0
+Elvis Pink.png, 237, 189, 46, 94, 0, 0, 0, 0
+dorama addict.png, 59, 639, 73, 39, 0, 0, 0, 0
+death.png, 150, 737, 63, 98, 0, 0, 0, 0
+death high five.png, 214, 616, 43, 87, 0, 0, 0, 0
+cute Dracula.png, 237, 285, 44, 70, 0, 0, 0, 0
+cream mummy.png, 265, 101, 56, 81, 0, 0, 0, 0
+coffin.png, 156, 339, 33, 68, 0, 0, 0, 0
+circular_rock ufo.png, 1, 944, 78, 44, 0, 0, 0, 0
+circular_pirate ufo.png, 81, 944, 48, 44, 0, 0, 0, 0
+carnivorous plant.png, 230, 443, 73, 132, 0, 0, 0, 0
+bycicle skeleton.png, 283, 285, 78, 104, 0, 0, 0, 0
+bycicle amphibian.png, 150, 837, 85, 103, 0, 0, 0, 0
+blue blue tree.png, 215, 705, 82, 119, 0, 0, 0, 0
+black fox.png, 230, 577, 59, 34, 0, 0, 0, 0
+Bible.png, 245, 391, 45, 35, 0, 0, 0, 0
+|big_village.png, 237, 826, 464, 158, 0, 0, 0, 0
+|big_skeleton.png, 131, 944, 96, 60, 0, 0, 0, 0
+|big_rock.png, 703, 1, 279, 186, 0, 0, 0, 0
+|big_picnic.png, 259, 613, 186, 85, 0, 0, 0, 0
+|big_octopus.png, 447, 1, 185, 145, 0, 0, 0, 0
+|big_light_nuclear giraffe.png, 305, 391, 132, 158, 0, 0, 0, 0
+|big_hungry plant.png, 288, 1, 90, 95, 0, 0, 0, 0
+|big_gentleman skeleton.png, 305, 551, 96, 58, 0, 0, 0, 0
+|big_floating_Dracula's success.png, 323, 148, 124, 130, 0, 0, 0, 0
+|big_floating_Dracula's mistake.png, 449, 148, 127, 131, 0, 0, 0, 0
+|big_Dracula's castle.png, 703, 189, 302, 268, 0, 0, 0, 0
+|big_chapel.png, 447, 281, 243, 129, 0, 0, 0, 0
+|big_cathedral.png, 447, 412, 236, 214, 0, 0, 0, 0
